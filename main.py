@@ -756,3 +756,10 @@ If there is a case where we only want to know if tomorrow got low, medium, high 
 We may not be able to compare classfication and regression model but we can compare the same models
 For classification, we found that Random forest perform the best and for regression case we found that random forest regression perform the best.""")
 
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
