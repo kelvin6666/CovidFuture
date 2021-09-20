@@ -423,6 +423,14 @@ def strong_accRegPH(x):
 
 ############################################################################### streamlit ####################################################################################
 
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
 st.markdown('## Exploratory Data Analysis')
 st.subheader('What is the difference of covid trend in 2020 and 2021 ?')
 plot1 = px.line(cases_melt,x='Month',y = 'value',title='Cases of 2020 vs Cases of 2021',color='variable')
@@ -756,10 +764,3 @@ If there is a case where we only want to know if tomorrow got low, medium, high 
 We may not be able to compare classfication and regression model but we can compare the same models
 For classification, we found that Random forest perform the best and for regression case we found that random forest regression perform the best.""")
 
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
