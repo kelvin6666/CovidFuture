@@ -5,5 +5,4 @@ pandas
 altair
 folium
 datetime
-calendar
 geopandas
