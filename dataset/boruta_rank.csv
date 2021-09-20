@@ -1,0 +1,41 @@
+FeaturePahang,RankingPahang,FeatureKedah,RankingKedah,FeatureJohor,RankingJohor,FeatureSelangor,RankingSelangor
+"(1mth, Sarawak)",1,"(10mth, Johor)",19,"(10mth, Johor)",20,"(10mth, Kelantan)",10
+"(1year2Mth, Johor)",3,"(10mth, Perak)",11,"(10mth, Kelantan)",10,"(1day, W.P. Labuan)",2
+"(1year2Mth, Perak)",5,"(1week, W.P. Labuan)",24,"(10mth, Pahang)",25,"(1week, Pahang)",20
+"(1year2Mth, Sarawak)",8,"(1year2Mth, Johor)",4,"(10mth, W.P. Kuala Lumpur)",2,"(1year, Kelantan)",11
+"(2day, Selangor)",27,"(1year2Mth, Perak)",3,"(10mth, W.P. Putrajaya)",25,"(1year, Sabah)",29
+"(4mth, Perlis)",7,"(1year2Mth, Selangor)",1,"(1week, W.P. Kuala Lumpur)",21,"(1year1Mth, Terengganu)",21
+"(4mth, W.P. Putrajaya)",12,"(1year2Mth, W.P. Putrajaya)",13,"(1year, Kelantan)",5,"(1year3Mth, Perak)",17
+"(4week, Sarawak)",21,"(1year3Mth, Melaka)",21,"(1year1Mth, Selangor)",16,"(1year3Mth, Selangor)",26
+"(4week, W.P. Labuan)",1,"(1year3Mth, Pahang)",1,"(1year2Mth, W.P. Kuala Lumpur)",28,"(1year4Mth, Sarawak)",7
+"(5day, W.P. Labuan)",22,"(1year3Mth, Sarawak)",20,"(2day, Selangor)",9,"(2mth, Pahang)",3
+"(5mth, Selangor)",10,"(1year3Mth, Terengganu)",18,"(2day, W.P. Labuan)",23,"(2mth, Sabah)",8
+"(5mth, W.P. Kuala Lumpur)",1,"(1year4Mth, Sarawak)",17,"(2mth, Perlis)",4,"(2week, W.P. Labuan)",30
+"(5mth, W.P. Putrajaya)",27,"(1year4Mth, W.P. Kuala Lumpur)",27,"(3day, Selangor)",16,"(3day, W.P. Labuan)",28
+"(6mth, W.P. Kuala Lumpur)",29,"(2day, W.P. Labuan)",13,"(3mth, Sabah)",1,"(3mth, Sabah)",6
+"(6mth, W.P. Putrajaya)",2,"(2mth, Sabah)",22,"(4day, Negeri Sembilan)",27,"(4day, Negeri Sembilan)",19
+"(8mth, Kedah)",2,"(3day, W.P. Kuala Lumpur)",9,"(4mth, Melaka)",19,"(4day, Selangor)",26
+"(8mth, W.P. Labuan)",2,"(3mth, Sabah)",22,"(4mth, Pulau Pinang)",10,"(4mth, Pulau Pinang)",16
+"(9mth, Kedah)",2,"(4mth, Kedah)",6,"(4week, Sarawak)",7,"(4mth, W.P. Labuan)",18
+"(1day, W.P. Labuan)",29,"(4mth, Perlis)",15,"(5mth, Johor)",30,"(4mth, W.P. Putrajaya)",13
+"(1year2Mth, Pahang)",26,"(5day, W.P. Kuala Lumpur)",29,"(5mth, Kedah)",22,"(4week, W.P. Labuan)",24
+"(1year2Mth, Selangor)",20,"(5day, W.P. Labuan)",8,"(5mth, Perak)",8,"(5day, Selangor)",2
+"(1year3Mth, Negeri Sembilan)",18,"(5mth, Pahang)",28,"(5mth, W.P. Putrajaya)",25,"(5mth, Johor)",12
+"(1year3Mth, Pahang)",11,"(5mth, Perak)",5,"(6day, W.P. Labuan)",15,"(5mth, Kedah)",4
+"(2mth, Pahang)",1,"(5mth, W.P. Kuala Lumpur)",10,"(6mth, Sabah)",12,"(5mth, Sabah)",14
+"(3day, W.P. Kuala Lumpur)",15,"(7mth, Negeri Sembilan)",1,"(6mth, Terengganu)",13,"(5mth, W.P. Labuan)",15
+"(4day, W.P. Kuala Lumpur)",1,"(8mth, Negeri Sembilan)",30,"(6mth, W.P. Labuan)",6,"(6mth, Negeri Sembilan)",22
+"(4mth, Perak)",1,"(8mth, Perak)",7,"(7mth, Kedah)",29,"(6mth, Sabah)",9
+"(4mth, Selangor)",12,"(8mth, Sabah)",25,"(8mth, Sarawak)",14,"(6mth, W.P. Labuan)",5
+"(4week, Negeri Sembilan)",19,"(8mth, Selangor)",15,"(9mth, Kedah)",3,"(8mth, Perlis)",25
+"(5mth, Pulau Pinang)",1,"(8mth, W.P. Labuan)",25,"(9mth, Negeri Sembilan)",18,"(8mth, W.P. Labuan)",23
+"(5mth, Terengganu)",6,"(9mth, Kedah)",1,,,,
+"(6mth, Pahang)",8,"(9mth, Negeri Sembilan)",2,,,,
+"(6mth, Perlis)",4,"(cases_new, Negeri Sembilan)",11,,,,
+"(6mth, Pulau Pinang)",24,,,,,,
+"(6mth, Selangor)",14,,,,,,
+"(7mth, Kedah)",16,,,,,,
+"(7mth, Negeri Sembilan)",16,,,,,,
+"(7mth, W.P. Labuan)",22,,,,,,
+"(8mth, Negeri Sembilan)",1,,,,,,
+"(8mth, W.P. Kuala Lumpur)",24,,,,,,

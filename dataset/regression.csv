@@ -1,0 +1,17 @@
+Pahang,Accuracy,F1-score weighted,Accuracy,F1-score weighted,Accuracy,F1-score weighted,Accuracy,F1-score weighted
+Pahang,Pahang,Pahang,Kedah,Kedah,Johor,Johor,Selangor,selangor
+Decision Tree,0.75,0.74,0.74,0.74,0.77,0.77,0.83,0.82
+K Nearest Neightbour,0.74,0.69,0.75,0.76,0.71,0.71,0.89,0.89
+Logistic Regession,0.7,0.66,0.68,0.69,0.76,0.76,0.9,0.9
+Naïve Bayes,0.7,0.67,0.66,0.67,0.78,0.78,0.88,0.88
+Random Forest,0.77,0.72,0.79,0.79,0.78,0.78,0.87,0.87
+Support Vector Classification,0.72,0.68,0.71,0.72,0.75,0.76,0.9,0.91
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
