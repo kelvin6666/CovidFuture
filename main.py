@@ -1,3 +1,12 @@
+st.set_page_config(layout="wide")
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
 import streamlit as st 
 import numpy as np
 import pandas as pd
@@ -9,7 +18,7 @@ import calendar
 import plotly.express as px
 import geopandas as gp
 
-st.set_page_config(layout="wide")
+
 
 
 cases_msia = pd.read_csv('dataset/cases_malaysia.csv')
@@ -423,13 +432,6 @@ def strong_accRegPH(x):
 
 ############################################################################### streamlit ####################################################################################
 
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 st.markdown('## Exploratory Data Analysis')
 st.subheader('What is the difference of covid trend in 2020 and 2021 ?')
