@@ -3,7 +3,6 @@ import streamlit as st
 st.set_page_config(layout="wide")
 hide_streamlit_style = """
             <style>
-            #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             </style>
             """
@@ -285,12 +284,13 @@ def strong_Corr(x):
     return df1
 
 def strong_accPH(x):
-    c1 = 'background-color: black'
+    c1 = "background-color: black"
     c2 = 'background-color: none' 
-
+    
     cols = x.select_dtypes(np.number).columns
     df1 = pd.DataFrame('', index=x.index, columns=x.columns)
     df1[cols] = np.where((x[cols] == 0.7700) | (x[cols] == 0.7500), c1,c2)
+    
     df1['F1-score weighted'] = np.where((x['F1-score weighted'] == 0.7200)|(x['F1-score weighted'] == 0.7400), c1,c2)
     return df1
 
