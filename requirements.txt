@@ -7,3 +7,4 @@ folium
 datetime
 geopandas
 streamlit-folium
+plotly
