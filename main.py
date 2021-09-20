@@ -748,3 +748,11 @@ performance to  the chosen the chosen models but we are also choosing top 2 best
 
 st.markdown('### Conclusion in the cases we tested in Pahang, Kedah, Johor and Selangor. We found that 4 out of 4 cases random forest regression was the top performing model and 3 out of 4 cases support vector regression was the top performing model. We found that linear regression had extremely terrible performance for 3 out of 4 cases and only in 1 case it perform mildly good. ')
 
+st.markdown("## Grand Conclusion")
+st.markdown("### Which is better classification or regression?")
+st.write("""Well we cant compare classification and regression as both outpt are different.
+If there is a case where we need to predict a detail predicting of how many number of covid cases we will have tomorrow then it is better to use regression as a regression model is able to give you real values.
+If there is a case where we only want to know if tomorrow got low, medium, high or super high covid cases. Then classification is better at doing that.
+We may not be able to compare classfication and regression model but we can compare the same models
+For classification, we found that Random forest perform the best and for regression case we found that random forest regression perform the best.""")
+
